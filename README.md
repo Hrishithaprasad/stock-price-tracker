@@ -27,11 +27,11 @@ Coming soon!
 
 ## 📸 Screenshots
 
-### Light Mode
-![Light Mode](screenshots/light.png)
+### US Stocks (Light Mode)
+![US Stock](screenshots/light.png)
 
-### Dark Mode
-![Dark Mode](screenshots/dark.png)
+### Indian Stocks (INR Currency)
+![Indian Stock](screenshots/dark.png)
 
 ## 🚀 How to Run Locally
 
